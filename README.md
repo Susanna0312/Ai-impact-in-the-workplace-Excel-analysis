@@ -1,6 +1,6 @@
-# Ai-impact-in-the-workplace-Excel-analysis
+# Ai-impact-in-the-workplace-Data-analysis
 Analysis of workplace AI adoption, productivity, trust, and challenges using Microsoft Excel.
-# AI Impact in the Workplace | Excel Data Analysis
+# AI Impact in the Workplace | Data Analysis
 
 ## Project Overview
 This project explores how artificial intelligence is influencing workplace productivity, adoption, employee trust, and barriers to AI usage.
