@@ -31,3 +31,13 @@ Data analysis, data validation, KPI reporting, dashboard development, data visua
 
 ## How to Explore
 Download the Excel workbook and open it in Microsoft Excel to explore the dashboard and its interactive features.
+
+
+## 📊 Interactive Excel Dashboard
+
+This dashboard visualizes AI adoption, employee productivity, trust in AI, and barriers to AI usage across industries.
+
+### Dashboard Preview
+
+![AI Impact in the Workplace Dashboard](screenshots/dashboard.png)
+  
