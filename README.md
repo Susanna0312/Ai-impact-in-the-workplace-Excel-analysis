@@ -40,4 +40,12 @@ This dashboard visualizes AI adoption, employee productivity, trust in AI, and b
 ### Dashboard Preview
 
 ![AI Impact in the Workplace Dashboard](screenshots/dashboard.png)
-  
+  ## PostgreSQL Analysis
+
+The [SQL script](ai_workplace_analysis.sql) contains the full analysis.
+
+### Overall survey KPIs
+![PostgreSQL query and overall survey KPI results](screenshots/sql-overall-kpis.png)
+
+### AI adoption by job role
+![PostgreSQL results for AI adoption by job role](screenshots/sql-adoption-by-role.png)
